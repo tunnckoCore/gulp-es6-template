@@ -1,0 +1,37 @@
+{
+  "name": "gulp-es6-template",
+  "version": "0.0.0",
+  "description": "Gulp plugin for `es6-template` - easy and small template engine.",
+  "repository": "tunnckoCore/gulp-es6-template",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "es6-template": "^1.0.1",
+    "gulp-util": "^3.0.6",
+    "is-real-object": "^1.0.1",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "engine",
+    "es",
+    "es-template",
+    "es-templategnt",
+    "gulp",
+    "gulpplugin",
+    "plugin",
+    "template",
+    "templategnt",
+    "tpl",
+    "transform"
+  ]
+}
