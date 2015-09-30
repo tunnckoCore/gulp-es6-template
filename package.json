@@ -1,6 +1,6 @@
 {
   "name": "gulp-es6-template",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Gulp plugin for `es6-template` - easy and small template engine.",
   "repository": "tunnckoCore/gulp-es6-template",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
