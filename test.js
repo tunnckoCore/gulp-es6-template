@@ -42,7 +42,7 @@ test('should render file with locals', function (done) {
 test('should error if stream', function (done) {
   plugin(new gutil.File({
     base: __dirname,
-    path: __dirname + '/fixture.txt',
+    path: __dirname + '/package.json',
     contents: fs.createReadStream('package.json')
   }), function (err) {
     test.strictEqual(err.message, 'Streaming not supported')

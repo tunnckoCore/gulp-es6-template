@@ -24,13 +24,13 @@
   "keywords": [
     "engine",
     "es",
+    "es6",
     "es-template",
-    "es-templategnt",
+    "es6-template",
     "gulp",
     "gulpplugin",
     "plugin",
     "template",
-    "templategnt",
     "tpl",
     "transform"
   ]
